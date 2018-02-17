@@ -8,5 +8,5 @@ function setup() {
 
     stroke(0, 255, 0)
     ellipse(mouseX, mouseY, 100, 100)
-    fill('rgba(50%,0%,5%,.5)');
+    fill('rgba(0%,0%,255%,.5)');
     }
